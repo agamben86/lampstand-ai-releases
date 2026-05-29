@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.4",
-  "download_url": "https://github.com/agamben86/lampstand-ai-releases/releases/download/v1.0.4/LampstandAISetup_v1.0.4.zip",
-  "notes": "이전설교 검색 결과에서 바로 원문 열기·목록 복귀 개선, 파일 읽기·색인 안정성 향상, 결제 환불 처리 정확도 개선, 여러 자잘한 버그 수정."
+  "latest": "1.0.5",
+  "download_url": "https://github.com/agamben86/lampstand-ai-releases/releases/download/v1.0.5/LampstandAISetup_v1.0.5.zip",
+  "notes": "책상·공방 AI가 서재 자료(영감·묵상·예화·신학자료·이전설교)를 더 정확히 인용하도록 개선, 메모·웹자료 저장 즉시 검색 반영, 화면을 더 또렷한 디자인으로 정돈, 안정성 향상."
 }
