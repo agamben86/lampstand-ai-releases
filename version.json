@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.5",
-  "download_url": "https://github.com/agamben86/lampstand-ai-releases/releases/download/v1.0.5/LampstandAISetup_v1.0.5.zip",
-  "notes": "책상·공방 AI가 서재 자료(영감·묵상·예화·신학자료·이전설교)를 더 정확히 인용하도록 개선, 메모·웹자료 저장 즉시 검색 반영, 화면을 더 또렷한 디자인으로 정돈, 안정성 향상."
+  "latest": "1.0.6",
+  "download_url": "https://github.com/agamben86/lampstand-ai-releases/releases/download/v1.0.6/LampstandAISetup_v1.0.6.zip",
+  "notes": "책상·공방 AI가 서재 자료를 더 폭넓고 정확하게 인용, 설교 공방이 성경 본문·원어를 직접 참고, '이전설교·서재 통합분석'을 전문 보고서급으로 격상(크레딧 15로 조정), '서재/이전설교' 범위 검색 정확도 개선, 대화 저장 안정화, 탭 메뉴 가독성 개선."
 }
